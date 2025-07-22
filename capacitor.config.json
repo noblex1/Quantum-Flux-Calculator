@@ -1,0 +1,10 @@
+{
+  "appId": "app.lovable.a4eda6b0ff37439f9f189e722b11ecb7",
+  "appName": "quantum-flux-calc",
+  "webDir": "dist",
+  "server": {
+    "url": "https://a4eda6b0-ff37-439f-9f18-9e722b11ecb7.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "bundledWebRuntime": false
+}
